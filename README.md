@@ -4,5 +4,5 @@
 Сделаем его исполняемым:
 chmod a+x /usr/local/vesta/bin/vestacp_sess.sh
 
-Запускаем по крону
+Запускаем по крону:
 sudo /usr/local/vesta/bin/vestacp_sess.sh
